@@ -1,0 +1,29 @@
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+h1{
+        font-size:60px;
+        
+    }
+.half-width{
+        width: 50%;
+        padding: 5%;
+        
+}
+.flexible_container{
+    display: flex;
+    
+}
+.Background-img{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    
+}
+.link-Button{
+    text-decoration: none;
+    background-color: palevioletred;
+    background-image: linear-gradient(palevioletred,red);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
